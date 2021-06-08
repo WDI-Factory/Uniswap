@@ -1,0 +1,27 @@
+[submodule "uniswap-v3-staker"]
+	path = uniswap-v3-staker
+	url = git@github.com:WDI-Factory/uniswap-v3-staker.git
+[submodule "uniswap-interface"]
+	path = uniswap-interface
+	url = git@github.com:WDI-Factory/uniswap-interface.git
+[submodule "uniswap-docs"]
+	path = uniswap-docs
+	url = git@github.com:WDI-Factory/uniswap-docs.git
+[submodule "uniswap-v3-info"]
+	path = uniswap-v3-info
+	url = git@github.com:WDI-Factory/uniswap-v3-info.git
+[submodule "uniswap-v3-sdk"]
+	path = uniswap-v3-sdk
+	url = git@github.com:WDI-Factory/uniswap-v3-sdk.git
+[submodule "uniswap-sdk-core"]
+	path = uniswap-sdk-core
+	url = git@github.com:WDI-Factory/uniswap-sdk-core.git
+[submodule "uniswap-v3-periphery"]
+	path = uniswap-v3-periphery
+	url = git@github.com:WDI-Factory/uniswap-v3-periphery.git
+[submodule "uniswap-lib"]
+	path = uniswap-lib
+	url = git@github.com:WDI-Factory/uniswap-lib.git
+[submodule "uniswap-v3-core"]
+	path = uniswap-v3-core
+	url = git@github.com:WDI-Factory/uniswap-v3-core.git
